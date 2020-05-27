@@ -1,0 +1,70 @@
+﻿[main]
+lbl-activation=Activación:
+lbl-speed=Velocidad:
+lbl-alt-speed=Velocidad Alt.:
+lbl-left-btn=Botón izquierdo
+lbl-right-btn=Botón derecho
+lbl-middle-btn=Botón medio
+lbl-up=Arriba
+lbl-down=Abajo
+lbl-left=Izquierda
+lbl-right=Derecha
+lbl-scroll-up=Desplazarse hacia arriba
+lbl-scroll-down=Desplazarse hacia abajo
+btn-save=Salvar
+btn-reset=Resetear
+btn-defaults=Restaurar
+chk-minimize=Minimizar
+gb-activation=Activación
+chk-cursor=Icono cerca del cursor
+lbl-left-up=Arriba izquierda
+lbl-right-up=Arriba derecha
+lbl-left-down=Abajo izquierda
+lbl-right-down=Abajo derecha
+chk-autoactivate=Activar emulación
+lbl-show=Mostrar:
+chk-notifications=Notificaciones
+combo-item-none= [Ninguno]
+lbl-onstartup=Al iniciar:
+lbl-sticky-keys=Teclas especiales
+lbl-activation-modifier=Emular solo con:
+gb-miscellaneous=Otras opciones
+gb-buttons=Botones del ratón
+gb-movement=Movimiento del ratón
+gb-quicksettings=Opciones rápidas
+[notify]
+restore=Mostrar
+exit=Salir
+balloon-start=Permanecer en la bandeja del sistema
+balloon-enabled=Emulación del ratón activada
+balloon-disabled=Emulación del ratón desactivada
+enable=Habilitar emulación
+disable=Desactivar emulación
+[errors]
+hook-error-msg=No se puede configurar el gancho del teclado
+hook-error-caption=Error
+mutex-msg=NeatMouse ya se está ejecutando.
+mutex-caption=Error
+[toolbar]
+presets.add-preset-caption=Agregando nueva configuración personalizada...
+presets.add-preset-prompt=Nombre de la nueva configuración personalizada:
+presets.confirm-save-caption=Confirmar
+presets.confirm-save-prompt=Salvar cambios de la nueva configuración?
+language=Idioma
+help=Ayuda
+lbl-preset=Configuración:
+add-new-preset=Agregar nueva configuración personalizada
+delete-preset=Borrar configuración personalizada
+save-preset=Salvar configuración
+about=Acerca de NeatMouse
+advanced-view=Más opciones
+[common]
+btn-ok=OK
+btn-cancel=Cancelar
+[about]
+lnk-visit-site=Visita el sitio web de Neat Decisions para conocer las últimas novedades, preguntas, respuestas y obtener soporte
+caption=Acerca de NeatMouse
+some-icons=Algunos íconos desarrollados por
+github=NeatMouse en GitHub
+translation-contrib=Fernando J. Conti
+chk-run-at-startup=Ejecutar NeatMouse al iniciar Windows
